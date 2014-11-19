@@ -1,4 +1,5 @@
 [PyBuilder](http://pybuilder.github.io)
+==============================
 =========
 
 [![Build Status](https://secure.travis-ci.org/pybuilder/pybuilder.png?branch=master)](http://travis-ci.org/pybuilder/pybuilder)
@@ -7,9 +8,6 @@
 [![Ready in backlog](https://badge.waffle.io/pybuilder/pybuilder.png?label=ready&title=Ready)](https://waffle.io/pybuilder/pybuilder)
 [![Open bugs](https://badge.waffle.io/pybuilder/pybuilder.png?label=bug&title=Open%20Bugs)](https://waffle.io/pybuilder/pybuilder)
 
-
-PyBuilder is a software build tool written in 100% pure Python and mainly
-targets Python applications.
 
 PyBuilder is based on the concept of dependency based programming but also comes
 along with powerful plugin mechanism that allows the construction of build life
